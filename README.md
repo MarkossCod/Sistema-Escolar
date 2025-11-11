@@ -12,7 +12,7 @@ Treinar os alunos no desenvolvimento de aplicações orientadas a objetos (POO),
 
 Java
 
-IDE (Eclipse / IntelliJ / NetBeans, conforme o projeto)
+IDE (IntelliJ conforme o projeto)
 
 Programação Orientada a Objetos (POO)
 
